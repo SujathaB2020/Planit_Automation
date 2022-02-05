@@ -37,6 +37,6 @@ Install Eclipse, Chrome drivers, Selenium jar files, TestNG jar files and option
 # Run Instructions:
 * Open command prompt on windows
 * Run below command to set class path
-* set classpath = {project bin folder path};{lib folder path}\*
+* set classpath = {project bin folder path};{lib folder path}\\*
 * Run below command to execute test
 * java org.testng.TestNG {filename}.xml
